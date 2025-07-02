@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/nikesh shah" target="blank"><img src="https://img.shields.io/twitter/follow/nikesh shah?logo=twitter&style=for-the-badge" alt="nikesh shah" /></a> </p>
 
-- 💬 Ask me about **java, Javascript, MERN**
+- 💬 Ask me about **java, Javascript, Python, MERN**
 
 - 📫 How to reach me **nikeshah0454@gmail.com**
 
